@@ -18,12 +18,12 @@ After that copy the soruce of FontAwesomeUtils.java inside a one package of your
 **N.B. Once time that you have copied this file you must change the package string of this class**
 
 ## Use
-This is an example of use.
-Inside one of yours layout files create a new widget like this one, and instead of *"@string/fa_paper_plane"* put your desidered icon name.
+This is an example of use. Inside one of yours layout files create a new widget like this one, and instead of *"@string/fa_paper_plane"* put the desidered icon name
 
 **The name of all icons is the same of original library but instead of "-" you must write "_"**
 
-**Actually, you must apply the font only on TextView, EditText or Button**
+
+**Currently, you could apply the font only on TextView, EditText or Button**
 
 
 ```xml
@@ -45,4 +45,4 @@ Then, after you have created your widget, inside your fragment or your activity 
 
 Then compile and run app and see the **magic**.
 
-**However you not see the font from the AndoridStudio interface drawer**
+**Unfortunately you cannot see the *"magic"* from the AndoridStudio ui drawer**
