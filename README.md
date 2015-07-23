@@ -12,7 +12,7 @@ If you haven't this folder, you must create it.
 
 Then, copy the *font_awesome.xml* file inside the same folder of your *string.xml* files
 
-After that copy the soruce of FontAwesomeUtils.java inside a one package of your project.
+After that copy the soruce of *FontAwesomeUtils.java* inside a one package of your project.
 
 **Once time that you have copied this file you must change the package string of this class**
 
