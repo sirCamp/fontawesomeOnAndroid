@@ -1,8 +1,7 @@
 # fontawesomeOnAndroid
 A way to use the fantastic Fontawesome Icons inside the Android projects
 
-**N.B.**
-This small snippet is based on *FontAwesome 4.3*
+**This small snippet is based on *FontAwesome 4.3* **
 
 ## Install
 To begin you must download the font-awesome.zip from fontawesome-webfont.ttf from http://fortawesome.github.io/Font-Awesome/.
