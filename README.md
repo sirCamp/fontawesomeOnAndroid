@@ -14,7 +14,7 @@ Then, copy the *font_awesome.xml* file inside the same folder of your *string.xm
 
 After that copy the soruce of FontAwesomeUtils.java inside a one package of your project.
 
-**N.B. Once time that you have copied this file you must change the package string of this class**
+**Once time that you have copied this file you must change the package string of this class**
 
 ## Use
 This is an example of use. Inside one of yours layout files create a new widget like this one, and instead of *"@string/fa_paper_plane"* put the desidered icon name
